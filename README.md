@@ -17,7 +17,7 @@ The config.go file will read the config.json file and get all parametter
 The bot.go file will add functionality to our bot , this will be the file you will mostly change and improve 
 
 Have fun developping !
-## Run the Project*
+## Run the Project
 /!\ Change de token in the config.json file to the one you've generated /!\
 ```bash
   go run .
